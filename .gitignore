@@ -1,0 +1,101 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor and IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# GitBook specific
+_book/
+node_modules/
+*.epub
+*.mobi
+*.pdf
+book.json
+book.js
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Python 
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# LaTeX/Paper writing related
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+*.dvi
+*.xdv
+*-converted-to.*
+*.ps
+*.eps
+*.pdf
+*.fdb_latexmk
+*.synctex
+*.synctex(busy)
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
+
+# Temporary files
+tmp/
+temp/
+.tmp/
+.temp/
+
+# Large media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
+
+# Keep important PDFs (override the PDF exclusion for specific files if needed)
+# !important-document.pdf 
