@@ -1,0 +1,37 @@
+title: "Theory of Neuroscience: A Mathematical Framework for Intelligence"
+description: "A comprehensive theory of neuroscience exploring the mathematical foundations of intelligence across biological and artificial systems."
+author: "Author Name"
+language: en
+
+structure:
+  readme: index.md
+  summary: SUMMARY.md
+
+plugins:
+  - mathjax
+  - katex
+  - expandable-chapters
+  - back-to-top-button
+  - search
+  - lunr
+
+styles:
+  website: styles/website.css
+
+links:
+  sidebar:
+    Home: /
+  sharing:
+    github: https://github.com/username/neuroscience-theory-monograph
+    twitter: true
+    facebook: true
+
+pdf:
+  pageNumbers: true
+  fontSize: 12
+  paperSize: a4
+  margin:
+    top: 56
+    bottom: 56
+    right: 62
+    left: 62 

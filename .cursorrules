@@ -1,0 +1,157 @@
+{
+  "cursorrules": [
+    {
+      "name": "Theory of Neuroscience",
+      "patterns": [
+        "intelligence",
+        "neuroscience",
+        "cognition",
+        "brain",
+        "cortex",
+        "neural",
+        "consciousness"
+      ],
+      "folders": ["theory-of-neuroscience/"]
+    },
+    {
+      "name": "Mathematical Models",
+      "patterns": [
+        "normal distribution",
+        "pdf",
+        "probability",
+        "statistical",
+        "mathematical",
+        "gaussian",
+        "g-factor"
+      ],
+      "folders": ["theory-of-neuroscience/mathematical-models/"]
+    },
+    {
+      "name": "Neurobiological Substrates",
+      "patterns": [
+        "fronto-temporal",
+        "connectivity",
+        "columnar organization",
+        "cortical",
+        "pyramidal neurons",
+        "neocortex",
+        "connectomics"
+      ],
+      "folders": ["theory-of-neuroscience/neurobiological-substrates/"]
+    },
+    {
+      "name": "Statistical Learning",
+      "patterns": [
+        "learning",
+        "naive bayes",
+        "LLMs",
+        "language acquisition",
+        "statistical learning",
+        "cognito ergo sum"
+      ],
+      "folders": ["theory-of-neuroscience/statistical-learning/"]
+    },
+    {
+      "name": "Physical Manifestations",
+      "patterns": [
+        "bioenergetic",
+        "self-organizing",
+        "criticality",
+        "consciousness",
+        "temporality",
+        "ontogenetic crown",
+        "spacetime"
+      ],
+      "folders": ["theory-of-neuroscience/physical-manifestations/"]
+    },
+    {
+      "name": "AGI Development",
+      "patterns": [
+        "AGI",
+        "artificial intelligence",
+        "AI",
+        "algorithms",
+        "algorithmic arms races",
+        "computational",
+        "generative"
+      ],
+      "folders": ["theory-of-neuroscience/agi-development/"]
+    },
+    {
+      "name": "Citations",
+      "patterns": [
+        "Posner",
+        "Fuster",
+        "Hubel",
+        "Wiesel",
+        "Vygotsky",
+        "Luria",
+        "Borges",
+        "England",
+        "Descartes"
+      ],
+      "folders": ["theory-of-neuroscience/citations/"]
+    },
+    {
+      "name": "Philosophical Concepts",
+      "patterns": [
+        "God",
+        "ethics",
+        "consciousness",
+        "death",
+        "mind-body",
+        "ontogenetic",
+        "language",
+        "violence"
+      ],
+      "folders": ["theory-of-neuroscience/philosophical/"]
+    },
+    {
+      "name": "Methodology",
+      "patterns": [
+        "MRI",
+        "fMRI",
+        "MEEG",
+        "PET",
+        "BOLD",
+        "neuroimaging",
+        "electrophysiology"
+      ],
+      "folders": ["theory-of-neuroscience/methodology/"]
+    },
+    {
+      "name": "Cross-species Comparisons",
+      "patterns": [
+        "monkeys",
+        "mammals",
+        "species",
+        "evolutionary",
+        "cross-species",
+        "comparative"
+      ],
+      "folders": ["theory-of-neuroscience/cross-species/"]
+    },
+    {
+      "name": "Borges References",
+      "patterns": [
+        "Borges",
+        "Death and the Compass",
+        "Man on pink corner",
+        "pink corner"
+      ],
+      "folders": ["theory-of-neuroscience/literary-references/borges/"]
+    },
+    {
+      "name": "Cultural Neuroscience",
+      "patterns": [
+        "culture",
+        "language",
+        "gender",
+        "linguistic",
+        "Anglo-Saxon",
+        "asymmetric lateralization"
+      ],
+      "folders": ["theory-of-neuroscience/cultural-neuroscience/"]
+    }
+  ]
+}
