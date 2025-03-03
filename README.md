@@ -31,13 +31,3 @@ To build the GitBook locally:
 3. Install GitBook plugins: `gitbook install`
 4. Build the book: `gitbook build`
 5. Serve the book locally: `gitbook serve`
-
-## License
-
-© [Your Name], [Year]
-
-This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
-
-![CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)
-
-This license requires that reusers give credit to the creator. It allows reusers to copy and distribute the material in any medium or format in unadapted form only, for noncommercial purposes only, and only so long as attribution is given to the creator. 
